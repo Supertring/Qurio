@@ -1,2 +1,2 @@
 # Qurio
-Quantum meets Curiosity
+- Quantum meets Curiosity
